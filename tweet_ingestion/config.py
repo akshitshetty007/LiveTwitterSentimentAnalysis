@@ -1,0 +1,9 @@
+"""
+twitter app keys
+"""
+CONSUMER_KEY = 'LlcGq4CLtsi2vfPAvURHSZvu7'
+CONSUMER_SECRET = '3tcXN7VkGvx0ZCbK4dqFqqzw73iAgczQ3wlLdU0clzoQOSLTpt'
+ACCESS_TOKEN = '4347228793-MtOM6nhI8Ua4krrMhcchyvw8YScEcELXPy1CGmG'
+ACCESS_TOKEN_SECRET = 'opjthCBROsn9m1OgMX25IdBrrsnAJZkpf583FrmRjIt2T'
+
+
